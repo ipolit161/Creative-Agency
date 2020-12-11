@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="32" viewBox="0 0 170 32">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 17.416px;
+        fill: #fff;
+        font-family: Montserrat;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <text id="BlueRex" class="cls-1" transform="translate(-2.702 31.725) scale(2.393 2.406)">BlueRex</text>
+</svg>
